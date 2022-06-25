@@ -102,8 +102,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>orgagussolution Snapshot Nexus Repository </name>
-	      <url>http://54.211.106.155:8081/#browse/browse:paypal-snapshot/</url>
+	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <url>http://54.211.106.155:8081/repository/paypaljun24/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
