@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Software Solutions, USA Nigeria and Canada Offices.</h1>
+<h1 align="center">Welcome to Landmark Software Solutions, USA Office.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions a ton of clients.
 	We offer elevated Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
