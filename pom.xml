@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>orgagussolution Snapshot Nexus Repository</name>
-	      <url>http://http://3.133.120.174:8081/repository/paypal-snapshot/</url>
+	      <url>http://3.133.120.174:8081/repository/paypal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
